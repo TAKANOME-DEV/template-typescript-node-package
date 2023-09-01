@@ -46,7 +46,7 @@
 		"js-yaml": "^4.1.0"
 	},
 	"devDependencies": {
-		"@clack/prompts": "^0.6.3",
+		"@clack/prompts": "^0.7.0",
 		"@octokit/request-error": "^3.0.3",
 		"@types/eslint": "^8.37.0",
 		"@types/js-yaml": "^4.0.5",
